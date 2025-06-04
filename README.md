@@ -6,8 +6,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofyast1&show_icons=true&locale=en" alt="sofyast1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofyast1&" alt="sofyast1" /></p>
-
 ## 🐞 Баг-репорты
 
 **Пример баг-репорта: мобильное приложение каршеринга**
