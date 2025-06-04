@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sofya</h1>
-<h3 align="center">A newby QA from Russia</h3>
+<h1 align="center">Hi, I'm Sofia — a curious QA newbie </h1>
 
 <p align="center">
   <img src="profilebanner.jpg" alt="This is fine" width="600" />
